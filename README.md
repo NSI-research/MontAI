@@ -1,2 +1,3 @@
 # MontAI
-AI on educ
+
+Ici seront déposés les différents script
